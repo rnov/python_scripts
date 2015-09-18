@@ -1,5 +1,4 @@
 __author__ = 'bobby'
-
 import struct
 import socket
 import dicts

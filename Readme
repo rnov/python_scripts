@@ -1,0 +1,9 @@
+Collection of python scripts related to network, security and web.
+The idea is to have a small pieces of code which are easy to understand and quick to consult in case of need.
+
+Third party modules are used.
+
+raw_tcp_sniffer.py : Socket sniffer which prints tcp, udp and icmp packets imports dicts.py.
+
+screen_scrapper.py : Retrieves all youtube's links from a torrent page and prints them. Can be run as 1 process or
+                     multiprocess (check on issues 'Scrapper_time_results'). It also make use of 3th party modules as BeautifulSoup.
