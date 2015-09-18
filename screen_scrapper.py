@@ -1,4 +1,3 @@
-__author__ = 'p45'
 __author__ = 'bobby'
 # Note: every page it retrieves contains 20 links to bananas(torrents) but not every
 #       banana has a link to youtube.
